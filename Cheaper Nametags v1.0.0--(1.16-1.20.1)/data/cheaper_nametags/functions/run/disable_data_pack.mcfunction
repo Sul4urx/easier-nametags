@@ -1,0 +1,1 @@
+scoreboard players set #global chp_nmtg.pk_st 1
