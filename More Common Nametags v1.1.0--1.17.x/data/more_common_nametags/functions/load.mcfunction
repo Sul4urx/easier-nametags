@@ -1,0 +1,1 @@
+scoreboard objectives add cmn_nmtg.info trigger

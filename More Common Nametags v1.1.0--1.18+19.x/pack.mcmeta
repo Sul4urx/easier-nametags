@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "Makes Name Tags Easier To Find. v1.1.0--1.18+19.x",
+        "supported_formats": [8, 9, 10, 12]
+    }
+}
